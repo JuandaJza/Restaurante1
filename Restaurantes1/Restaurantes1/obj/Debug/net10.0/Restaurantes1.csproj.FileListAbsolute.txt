@@ -1,0 +1,14 @@
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\bin\Debug\net10.0\Restaurantes1.exe
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\bin\Debug\net10.0\Restaurantes1.deps.json
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\bin\Debug\net10.0\Restaurantes1.runtimeconfig.json
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\bin\Debug\net10.0\Restaurantes1.dll
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\bin\Debug\net10.0\Restaurantes1.pdb
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\Restaurantes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\Restaurantes1.AssemblyInfoInputs.cache
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\Restaurantes1.AssemblyInfo.cs
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\Restaurantes1.csproj.CoreCompileInputs.cache
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\Restaurantes1.dll
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\refint\Restaurantes1.dll
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\Restaurantes1.pdb
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\Restaurantes1.genruntimeconfig.cache
+C:\Users\J0935\Downloads\Restaurantes1\Restaurantes1\obj\Debug\net10.0\ref\Restaurantes1.dll
