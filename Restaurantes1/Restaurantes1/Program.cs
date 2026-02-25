@@ -15,13 +15,21 @@ foreach (var Cliente in Lista_Clientes.Where(x => x.Estado))
 var Lista_Productos = new List<Productos>();
 Lista_Productos.Add(new Productos() { Id = 1, Codigo = "P01", Nombre= "Papitas", Cantidad= 73, Valor= 10000.0m});
 Lista_Productos.Add(new Productos() { Id = 2, Codigo = "P02", Nombre = "Gaseosa", Cantidad = 22, Valor = 4200.0m }); 
-Lista_Productos.Add(new Productos() { Id = 3, Codigo = "P03", Nombre = "Brownie_magico", Cantidad = 5, Valor = 1000.0m });
+Lista_Productos.Add(new Productos() { Id = 3, Codigo = "P03", Nombre = "Brownie", Cantidad = 5, Valor = 1000.0m });
 Console.WriteLine("Mostrar Menu");
 foreach (var Productos in Lista_Productos)
 {
     Console.WriteLine(Productos.Id + "|" + Productos.Codigo + "|" + Productos.Nombre + "|" + Productos.Cantidad + "|" + Productos.Valor);
 }
+var Lista_Ventas = new List<Ventas>();
+Lista_Ventas.Add(new Ventas(){Id =1, Codigo = "FA001", Cliente = 1, Fecha = new DateTime(2025, 1 ,1) Descuento = 0.0m, Total = 19000.0m});
+Lista_Ventas.Add(new Ventas(){Id =2, Codigo = "FA002", Cliente = 3, Fecha = new DateTime(2026, 1 ,1) Descuento = 0.25m, Total = 750.0m});
+Lista_Ventas.Add(new Ventas(){Id =3, Codigo = "FA003", Cliente = 1, Fecha = new DateTime(2026, 1 ,1) Descuento = 0.0m, Total = 10000,0m});
 
+foreach (var Venta in Lista_Ventas)
+{
+    Console.WriteLine(Ventas.Id + "|" + Ventas.Codigo + "|" + Ventas.Cliente + "|" + Ventas.Fecha + "|" + Ventas.Descuento + "|" + Ventas.Total);
+}
 
 public class Clientes
 {
